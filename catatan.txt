@@ -1,0 +1,13 @@
+Keterangan :			
+8888: data tidak terukur			
+9999: Tidak Ada Data (tidak dilakukan pengukuran)			
+"Tn: Temperatur minimum	 (°C)"			
+Tx: Temperatur maksimum (°C)			
+Tavg: Temperatur rata-rata (°C)			
+RH_avg: Kelembapan rata-rata (%)			
+RR: Curah hujan (mm)			
+ss: Lamanya penyinaran matahari (jam)			
+ff_x: Kecepatan angin maksimum (m/s)			
+ddd_x: Arah angin saat kecepatan maksimum (°)			
+ff_avg: Kecepatan angin rata-rata (m/s)			
+ddd_car: Arah angin terbanyak (°)			
